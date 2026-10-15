@@ -1,0 +1,2 @@
+contenu :
+wifi B204 : MotDePasse-Exemple
